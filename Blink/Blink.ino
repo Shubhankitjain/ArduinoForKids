@@ -1,4 +1,5 @@
 // Blinking led on pin 13
+// Turns on an LED on for one second, then off for one second, repeatedly.
 
 void setup()
 {
